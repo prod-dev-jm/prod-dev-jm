@@ -2,7 +2,7 @@
 
 💭 I design scalable Tableau/Power BI dashboards and automate Alteryx workflows to reduce manual effort and accelerate operational efficiency.
 
-🔗 [Connect with me on Linkedin!]((https://www.linkedin.com/in/jonathan-martin-56684796/))
+🔗 (Connect with me on Linkedin!)((https://www.linkedin.com/in/jonathan-martin-56684796/))
 <!--
 **prod-dev-jm/prod-dev-jm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
